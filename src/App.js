@@ -17,7 +17,7 @@ function App() {
         href="https://tailwindcss.com/docs/guides/create-react-app"
         target="_blank"
       >
-        Find More about installation of Tailwind CSS with Create React App
+        Find more about installation of Tailwind CSS with Create React App
       </a>
     </div>
   );
