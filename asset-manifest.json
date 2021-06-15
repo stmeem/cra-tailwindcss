@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cra-tailwindcss/static/css/main.6e06f637.chunk.css",
-    "main.js": "/cra-tailwindcss/static/js/main.80a1b129.chunk.js",
-    "main.js.map": "/cra-tailwindcss/static/js/main.80a1b129.chunk.js.map",
+    "main.js": "/cra-tailwindcss/static/js/main.dfad6395.chunk.js",
+    "main.js.map": "/cra-tailwindcss/static/js/main.dfad6395.chunk.js.map",
     "runtime-main.js": "/cra-tailwindcss/static/js/runtime-main.b2cf40c4.js",
     "runtime-main.js.map": "/cra-tailwindcss/static/js/runtime-main.b2cf40c4.js.map",
     "static/js/2.d8747dc4.chunk.js": "/cra-tailwindcss/static/js/2.d8747dc4.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.b2cf40c4.js",
     "static/js/2.d8747dc4.chunk.js",
     "static/css/main.6e06f637.chunk.css",
-    "static/js/main.80a1b129.chunk.js"
+    "static/js/main.dfad6395.chunk.js"
   ]
 }
